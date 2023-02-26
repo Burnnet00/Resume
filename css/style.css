@@ -16,7 +16,7 @@ body   {
     background-color: #ffffff;
     display: flex;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto; /*center*/
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
     }
 .sidebar  {
@@ -34,7 +34,8 @@ body   {
     padding-top: 110px;
     padding-bottom: 110px;
     padding-left: 90px;
-    padding-right: 90px; 
+    padding-right: 90px;
+    /*padding:110px 110px 90px 90px*/
     
 }
 .contact {
