@@ -55,14 +55,18 @@ body   {
     font-size: 22px;
     font-weight: 700;
     line-height: 24px;
+    margin-left: 40px;
     
     }
 
 .contact1 {
     font-size: 14px;
-    font-weight: 400;
-    line-height: 24px;
-    margin-right: 10;
+    font-weight: 700;
+    line-height: 14px;
+    margin-right: 6px;
+    margin-left: 40px;
+    color: #E0EBFE;
+
 }
 .contact2 {
     font-size: 14px;
